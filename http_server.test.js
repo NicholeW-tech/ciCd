@@ -1,6 +1,7 @@
 const supertest = require('supertest');
 const faker = require('faker');
 const { app, server } = require('./http_server');
+const { it, expect } = require('@jest/globals');
 const request = supertest(app);
 
 // returns a random user using faker
@@ -62,6 +63,10 @@ it('verify data', async done => {
     expect(data.body.some(e => e.name === user3.name)).toBeTruthy();
     done();
 })
+
+it('fail tests', () => {
+    expect(false).toBeTruthy();
+});
 
 afterAll(done => {
     server.close();

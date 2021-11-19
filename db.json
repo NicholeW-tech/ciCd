@@ -90,6 +90,45 @@
       "latitude": "13.9759",
       "longitude": "-137.6539",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mohanrohith/128.jpg"
+    },
+    {
+      "name": "Gretchen Grady",
+      "dob": "1946-7-4",
+      "email": "Gretchen.Grady61@gmail.com",
+      "username": "Gretchen_Grady31",
+      "password": "d3FJFydtHfJwzbb",
+      "phone": "(514) 365-8362",
+      "streetaddress": "193 Daryl Loaf",
+      "citystatezip": "West Cieloborough, NJ 48360",
+      "latitude": "-25.9380",
+      "longitude": "-0.9811",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mikebeecham/128.jpg"
+    },
+    {
+      "name": "Danial Miller",
+      "dob": "1970-11-7",
+      "email": "Danial_Miller@gmail.com",
+      "username": "Danial_Miller",
+      "password": "X4e5wbQMfnqvppF",
+      "phone": "975.808.5708 x08032",
+      "streetaddress": "918 Runolfsson Lodge",
+      "citystatezip": "New Griffinfurt, NV 96290-7408",
+      "latitude": "-26.0586",
+      "longitude": "-134.5836",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/helderleal/128.jpg"
+    },
+    {
+      "name": "Courtney Prohaska",
+      "dob": "1965-11-2",
+      "email": "Courtney25@hotmail.com",
+      "username": "Courtney92",
+      "password": "bSUsU8CB1l9gOuT",
+      "phone": "598.639.4492 x81890",
+      "streetaddress": "50980 Jerrod Grove",
+      "citystatezip": "Kertzmanntown, NH 89201-5128",
+      "latitude": "-62.5909",
+      "longitude": "-27.5881",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmartineau/128.jpg"
     }
   ]
 }
